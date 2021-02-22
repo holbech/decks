@@ -1,0 +1,7 @@
+*.json
+*.zip
+*.ods
+*.tsv
+all-*
+*.db
+needs
