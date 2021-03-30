@@ -1,5 +1,5 @@
 63	Forest
-114	Island
+115	Island
 92	Mountain
 63	Plains
 5	Chromatic Sphere
@@ -49,7 +49,7 @@
 2	Nantuko Cultivator
 1	Noble Hierarch
 1	Overgrown Battlement
-2	Portcullis Vine
+9	Portcullis Vine
 4	Rancor
 4	Rogue Elephant
 4	Sakura-Tribe Elder
@@ -92,7 +92,7 @@
 1	Tarnished Citadel
 1	Temple Garden
 4	Temple of the False God
-1	Temple of Triumph
+3	Temple of Triumph
 4	Tranquil Thicket
 1	Unclaimed Territory
 1	Wooded Bastion
@@ -174,7 +174,7 @@
 1	Vedalken Archmage
 4	Vision Skeins
 1	Voidmage Prodigy
-1	Wall of Runes
+5	Wall of Runes
 1	Web of Inertia
 4	Wheel and Deal
 1	Windfall
@@ -224,19 +224,42 @@
 2	Guilty Conscience
 2	Faith's Fetters
 1	Rhystic Study
-1	Buried Ruin
+2	Buried Ruin
 1	Wail of the Nim
 4	Myr Enforcer
-3	Wall of Blossoms
-3	Explore
-2	Shacklegeist
+5	Wall of Blossoms
+4	Explore
+3	Shacklegeist
 1	Rattlechains
-3	Thrill of Possibility
-1	Bloodrage Brawler
+8	Thrill of Possibility
+4	Bloodrage Brawler
 1	Dark Confidant
 1	Thriving Grove
 1	Thriving Isle
+1	Thriving Heath
 1	Necroplasm
 1	Khalni Heart Expedition
 1	Traveler's Cloak
 1	Etherium Sculptor
+1	Path of Bravery
+1	Pilgrim's Eye
+1	Burnished Hart
+4	Terramorphic Expanse
+1	Opal Palace
+1	Command Tower
+1	Wind-Scarred Crag
+1	Thornwood Falls
+1	Temple of Mystery
+1	Swiftwater Cliffs
+1	Fabled Passage
+3	Dismal Backwater
+3	Bloodfell Caves
+1	Solemn Simulacrum
+1	Return to Nature
+1	Kor Spiritdancer
+1	Exclusion Mage
+1	Temple of Epiphany
+1	Temple of Malady
+1	Carven Caryatid
+1	Towering Titan
+1	Assault Formation
