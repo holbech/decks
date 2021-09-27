@@ -66,7 +66,7 @@
 1	Academy Ruins
 1	Adarkar Wastes
 2	Azorius Guildgate
-2	Bant Panorama
+4	Bant Panorama
 1	Blossoming Sands
 1	Cascade Bluffs
 11	Cephalid Coliseum
@@ -95,7 +95,7 @@
 3	Temple of Triumph
 4	Tranquil Thicket
 1	Unclaimed Territory
-1	Wooded Bastion
+2	Wooded Bastion
 1	Hanna, Ship's Navigator
 1	High Alert
 1	Jungle Barrier
@@ -115,7 +115,7 @@
 1	Orcish Vandal
 3	Reckless Charge
 1	Reckless Wurm
-1	Rite of Flame
+5	Rite of Flame
 1	Rough // Tumble
 1	Ruinous Minotaur
 2	Soulblast
@@ -197,7 +197,7 @@
 2	Loxodon Gatekeeper
 1	Mesa Enchantress
 1	Monk Idealist
-1	Myrsmith
+2	Myrsmith
 1	Nevermore
 2	Nomad Mythmaker
 1	Open the Armory
@@ -224,7 +224,7 @@
 2	Guilty Conscience
 2	Faith's Fetters
 1	Rhystic Study
-2	Buried Ruin
+3	Buried Ruin
 1	Wail of the Nim
 4	Myr Enforcer
 5	Wall of Blossoms
@@ -232,7 +232,7 @@
 3	Shacklegeist
 1	Rattlechains
 8	Thrill of Possibility
-7	Bloodrage Brawler
+8	Bloodrage Brawler
 1	Dark Confidant
 1	Thriving Grove
 1	Thriving Isle
@@ -267,4 +267,19 @@
 1	Grim Lavamancer
 2	Tranquil Cove
 1	Crystalline Giant
+1	Archetype of Courage
+1	Heliod's Pilgrim
+2	Augury Owl
+1	Trophy Mage
+3	Goblin Wardriver
+1	New Benalia
+1	Unknown Shores
+1	Tidebinder Mage
+1	Ancient Ziggurat
+1	Mystic Gate
+1	Jhoira, Weatherlight Captain
+1	Ethersworn Canonist
+1	Tempered Steel
+1	Phyrexian Revoker
+1	Ravenous Intruder
 
