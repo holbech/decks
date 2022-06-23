@@ -208,7 +208,7 @@
 1	Roar of Reclamation
 1	Seal of Cleansing
 1	Seraph of the Suns
-7	Shelter
+8	Shelter
 1	Sigil of the Empty Throne
 1	Solar Tide
 1	Spear of Heliod
@@ -265,7 +265,7 @@
 1	Assault Formation
 2	Aven Squire
 1	Grim Lavamancer
-2	Tranquil Cove
+3	Tranquil Cove
 1	Crystalline Giant
 1	Archetype of Courage
 1	Heliod's Pilgrim
@@ -284,12 +284,12 @@
 1	Ravenous Intruder
 4	Springbloom Druid
 4	Murasa Behemoth
-1	Hall of Heliod's Generosity
+2	Hall of Heliod's Generosity
 1	Silent Clearing
-1	Sunbaked Canyon
-1	Ruination Rioter
-1	Ore-Scale Guardian
-4	Faerie Seer
+2	Sunbaked Canyon
+3	Ruination Rioter
+3	Ore-Scale Guardian
+5	Faerie Seer
 1	Mirrodin Besieged
 4	Reprobation
 1	Bala Ged Recovery // Bala Ged Sanctuary
@@ -299,5 +299,6 @@
 1	Riverglide Pathway // Lavaglide Pathway
 1	Tormenting Voice
 1	Darkslick Shores
+1	Nurturing Peatland
 
 
