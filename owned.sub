@@ -114,9 +114,9 @@
 2	Mark of Fury
 1	Orcish Vandal
 3	Reckless Charge
-1	Reckless Wurm
+7	Reckless Wurm
 5	Rite of Flame
-1	Rough // Tumble
+3	Rough // Tumble
 1	Ruinous Minotaur
 2	Soulblast
 1	Sparkmage Apprentice
@@ -148,7 +148,7 @@
 8	Memory Lapse
 1	Mnemonic Wall
 2	Muddle the Mixture
-3	Mulldrifter
+4	Mulldrifter
 1	Nameless One
 3	Negate
 1	Neurok Invisimancer
@@ -303,9 +303,16 @@
 1	Dauntless Escort
 1	Alesha, Who Smiles at Death
 2	Wall of Omens
-1	Eternal Witness
+2	Eternal Witness
 2	Graveblade Marauder
 3	Grapple with the Past
+1	Consuming Aberration
+1	Harmonize
+1	Flagstones of Trokair
+1	Pact of Negation
+1	Stuffy Doll
+1	Ethereal Armor
+1	Sram, Senior Edificer
 
 
 
